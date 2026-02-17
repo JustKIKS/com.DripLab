@@ -89,9 +89,9 @@ sudo mysqldump -u user -p my_database > backup.sql
 | Section                | Capture                          | Notes                  |
 | ---------------------- | -------------------------------- | ---------------------- |
 | 🏠 Landing Page 3D     | ![Landing 3D](/src/img/img1.png) | Modèle 3D interactif   |
-| 📖 Histoire de DripLab | ![Landing 3D](/src/img/img2.png) | Tunnel de paiement     |
-| 🛍️ Catalogue Produits  | ![Landing 3D](/src/img/img3.png) | 3 produits WooCommerce |
-| 🛍️ Produits Détaillés  | ![Landing 3D](/src/img/img5.png) | Tunnel de paiement     |
+| 📖 Histoire de DripLab | ![Landing 3D](/src/img/img2.png) | Histoire & Projet      |
+| 🛍️ Catalogue Produits  | ![Landing 3D](/src/img/img3.png) | 6 produits WooCommerce |
+| 🛍️ Produits Détaillés  | ![Landing 3D](/src/img/img5.png) | Produit personnalisé   |
 
 ---
 

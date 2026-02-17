@@ -1,0 +1,4 @@
+wp-config.php
+wp-content.backup/
+*.log
+.DS_Store

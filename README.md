@@ -1,5 +1,7 @@
 # 🎨 DripLab – Site E-commerce WordPress
 
+<img src="/src/img/macDripLab.png" width="450" />
+
 **DripLab** : Plateforme e-commerce **WordPress + WooCommerce** complète avec landing page interactive en **3D**. Infrastructure LAMP configurée manuellement sur Debian 12.
 
 > 🛍️ **Site e-commerce full-featured** | 🎨 **Landing 3D** | 🖥️ **Serveur LAMP custom**

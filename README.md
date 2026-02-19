@@ -1,4 +1,4 @@
-# 🎨 DripLab – Site E-commerce WordPress
+# 💻 DripLab – Site E-commerce WordPress
 
 <img src="/src/img/macDripLab.png" width="450" />
 

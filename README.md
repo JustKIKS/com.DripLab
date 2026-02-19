@@ -8,17 +8,16 @@
 
 ## 📦 Stack Technique
 
-| Frontend                        | Backend           | Infrastructure |
-| ------------------------------- | ----------------- | -------------- |
-| HTML/CSS/JS + **Three.js** (3D) | **WordPress 6.x** | **Debian 12**  |
-| **WooCommerce**                 | **PHP 8.2+**      | **Apache 2**   |
-| Design Responsive               | **MariaDB**       | **Git**        |
+| Frontend          | Backend      | Infrastructure |
+| ----------------- | ------------ | -------------- |
+| **WooCommerce**   | **PHP 8.2+** | **Apache 2**   |
+| Design Responsive | **MariaDB**  | **Git**        |
 
 ---
 
 ## 🛠️ Installation
 
-Infrastructure LAMP complète configurée manuellement sur Debian 12 via UTM (Mac).
+Infrastructure LAMP complète configurée manuellement sur Debian 12 via UTM (Mac) !
 
 **Services déployés** :
 
